@@ -51,5 +51,6 @@ int main(int argc, char *argv[]) {
     }
     test_show_bytes(val);
     printf("修改了一下\n");
+    printf("修改了两下\n");
     return 0;
 }

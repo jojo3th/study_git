@@ -14,4 +14,5 @@ int main() {
     INPLACE_SWAP(int, &a, &b);
     printf("a = %d,b = %d\n", a, b);
     printf("修改");
+    printf("修改2");
 }

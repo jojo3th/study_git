@@ -40,6 +40,7 @@ int main() {
     // printf("%d", -1 ? 1 : 0);
 
     printf("hello, world");
+    printf("hello, world2");
     int x = !1;
     printf("%d  %d\n", x, !x);
     return 0;
