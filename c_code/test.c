@@ -39,6 +39,7 @@ int main() {
 
     // printf("%d", -1 ? 1 : 0);
 
+    printf("hello, world");
     int x = !1;
     printf("%d  %d\n", x, !x);
     return 0;
