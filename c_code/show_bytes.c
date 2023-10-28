@@ -50,6 +50,5 @@ int main(int argc, char *argv[]) {
         val = strtol(argv[1], NULL, 0);
     }
     test_show_bytes(val);
-    printf("修改了一下\n");
     return 0;
 }
